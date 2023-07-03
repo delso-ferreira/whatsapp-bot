@@ -15,7 +15,6 @@ O projeto foi baseado na aula de <a href="https://www.youtube.com/watch?v=uCoSzw
 - Uso das seguintes dependências:
   - [VENOM-BOT](https://github.com/orkestral/venom) - Biblioteca para automação de ações no WhatsApp.
   - [DOTENV](https://github.com/motdotla/dotenv) - Carregamento de variáveis de ambiente a partir de um arquivo `.env`.
-  - 
   
 ## Instalação
 
