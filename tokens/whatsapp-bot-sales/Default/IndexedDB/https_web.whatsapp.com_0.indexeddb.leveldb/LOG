@@ -1,0 +1,22 @@
+2023/07/03-01:37:53.325 4d0c Reusing MANIFEST /home/delso/Documentos/trybe/projetos/git_aulas/github-pessoal/whatsapp-bot/tokens/whatsapp-bot-sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/03-01:37:53.325 4d0c Recovering log #139
+2023/07/03-01:37:53.327 4d0c Reusing old log /home/delso/Documentos/trybe/projetos/git_aulas/github-pessoal/whatsapp-bot/tokens/whatsapp-bot-sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000139.log 
+2023/07/03-01:37:54.229 4d0c Compacting 1@1 + 7@2 files
+2023/07/03-01:37:54.328 4d0c Generated table #143@1: 27396 keys, 2194493 bytes
+2023/07/03-01:37:54.420 4d0c Generated table #144@1: 2901 keys, 2158905 bytes
+2023/07/03-01:37:54.504 4d0c Generated table #145@1: 2718 keys, 2158937 bytes
+2023/07/03-01:37:54.579 4d0c Generated table #146@1: 2557 keys, 2154454 bytes
+2023/07/03-01:37:54.731 4d0c Generated table #147@1: 26173 keys, 2251234 bytes
+2023/07/03-01:37:54.906 4d0c Generated table #148@1: 42086 keys, 2274243 bytes
+2023/07/03-01:37:55.033 4d0c Generated table #149@1: 56456 keys, 2212101 bytes
+2023/07/03-01:37:55.140 4d0c Generated table #150@1: 50961 keys, 1087314 bytes
+2023/07/03-01:37:55.140 4d0c Compacted 1@1 + 7@2 files => 16491681 bytes
+2023/07/03-01:37:55.216 4d0c compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/07/03-01:37:55.217 4d0c Delete type=2 #134
+2023/07/03-01:37:55.217 4d0c Delete type=2 #132
+2023/07/03-01:37:55.217 4d0c Delete type=2 #141
+2023/07/03-01:37:55.217 4d0c Delete type=2 #133
+2023/07/03-01:37:55.217 4d0c Delete type=2 #135
+2023/07/03-01:37:55.217 4d0c Delete type=2 #138
+2023/07/03-01:37:55.217 4d0c Delete type=2 #137
+2023/07/03-01:37:55.217 4d0c Delete type=2 #136

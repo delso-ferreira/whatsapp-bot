@@ -1,0 +1,56 @@
+2023/07/03-01:34:20.424 4a77 Reusing MANIFEST /home/delso/Documentos/trybe/projetos/git_aulas/github-pessoal/whatsapp-bot/tokens/whatsapp-bot-sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/03-01:34:20.425 4a77 Recovering log #116
+2023/07/03-01:34:20.478 4a77 Reusing old log /home/delso/Documentos/trybe/projetos/git_aulas/github-pessoal/whatsapp-bot/tokens/whatsapp-bot-sales/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000116.log 
+2023/07/03-01:34:21.427 4a79 Compacting 1@1 + 6@2 files
+2023/07/03-01:34:21.522 4a79 Generated table #122@1: 25341 keys, 2193145 bytes
+2023/07/03-01:34:21.605 4a79 Generated table #123@1: 2872 keys, 2157195 bytes
+2023/07/03-01:34:21.680 4a79 Generated table #124@1: 2720 keys, 2161143 bytes
+2023/07/03-01:34:21.764 4a79 Generated table #125@1: 2575 keys, 2152971 bytes
+2023/07/03-01:34:21.970 4a79 Generated table #126@1: 27174 keys, 2256607 bytes
+2023/07/03-01:34:22.112 4a79 Generated table #127@1: 40345 keys, 2107904 bytes
+2023/07/03-01:34:22.112 4a79 Compacted 1@1 + 6@2 files => 13028965 bytes
+2023/07/03-01:34:22.247 4a79 compacted to: files[ 0 2 6 0 0 0 0 ]
+2023/07/03-01:34:22.247 4a79 Delete type=2 #113
+2023/07/03-01:34:22.247 4a79 Delete type=2 #110
+2023/07/03-01:34:22.247 4a79 Delete type=2 #112
+2023/07/03-01:34:22.247 4a79 Delete type=2 #115
+2023/07/03-01:34:22.247 4a79 Delete type=2 #114
+2023/07/03-01:34:22.247 4a79 Delete type=2 #111
+2023/07/03-01:34:22.248 4a79 Delete type=2 #118
+2023/07/03-01:34:35.857 4a77 Level-0 table #129: started
+2023/07/03-01:34:35.929 4a77 Level-0 table #129: 1098483 bytes OK
+2023/07/03-01:34:35.958 4a77 Delete type=0 #116
+2023/07/03-01:34:36.879 4a7d Compacting 1@0 + 2@1 files
+2023/07/03-01:34:36.996 4a7d Generated table #130@0: 63646 keys, 2228556 bytes
+2023/07/03-01:34:37.071 4a7d Generated table #131@0: 46874 keys, 1009448 bytes
+2023/07/03-01:34:37.071 4a7d Compacted 1@0 + 2@1 files => 3238004 bytes
+2023/07/03-01:34:37.099 4a7d compacted to: files[ 0 2 6 0 0 0 0 ]
+2023/07/03-01:34:37.099 4a7d Delete type=2 #129
+2023/07/03-01:34:37.099 4a7d Delete type=2 #120
+2023/07/03-01:34:37.099 4a7d Delete type=2 #119
+2023/07/03-01:34:56.940 4a77 Compacting 1@1 + 6@2 files
+2023/07/03-01:34:57.038 4a77 Generated table #132@1: 27408 keys, 2192727 bytes
+2023/07/03-01:34:57.130 4a77 Generated table #133@1: 2901 keys, 2158886 bytes
+2023/07/03-01:34:57.240 4a77 Generated table #134@1: 2719 keys, 2158894 bytes
+2023/07/03-01:34:57.324 4a77 Generated table #135@1: 2556 keys, 2154794 bytes
+2023/07/03-01:34:57.442 4a77 Generated table #136@1: 26151 keys, 2250969 bytes
+2023/07/03-01:34:57.644 4a77 Generated table #137@1: 42095 keys, 2274367 bytes
+2023/07/03-01:34:57.786 4a77 Generated table #138@1: 42633 keys, 1798913 bytes
+2023/07/03-01:34:57.786 4a77 Compacted 1@1 + 6@2 files => 14989550 bytes
+2023/07/03-01:34:57.920 4a77 compacted to: files[ 0 1 7 0 0 0 0 ]
+2023/07/03-01:34:57.920 4a77 Delete type=2 #130
+2023/07/03-01:34:57.921 4a77 Delete type=2 #124
+2023/07/03-01:34:57.921 4a77 Delete type=2 #126
+2023/07/03-01:34:57.921 4a77 Delete type=2 #127
+2023/07/03-01:34:57.921 4a77 Delete type=2 #122
+2023/07/03-01:34:57.921 4a77 Delete type=2 #125
+2023/07/03-01:34:57.921 4a77 Delete type=2 #123
+2023/07/03-01:35:10.579 4a7d Level-0 table #140: started
+2023/07/03-01:35:10.655 4a7d Level-0 table #140: 1110553 bytes OK
+2023/07/03-01:35:10.712 4a7d Delete type=0 #128
+2023/07/03-01:35:11.640 4a7d Compacting 1@0 + 1@1 files
+2023/07/03-01:35:11.750 4a7d Generated table #141@0: 85481 keys, 1684024 bytes
+2023/07/03-01:35:11.750 4a7d Compacted 1@0 + 1@1 files => 1684024 bytes
+2023/07/03-01:35:11.816 4a7d compacted to: files[ 0 1 7 0 0 0 0 ]
+2023/07/03-01:35:11.817 4a7d Delete type=2 #140
+2023/07/03-01:35:11.817 4a7d Delete type=2 #131
