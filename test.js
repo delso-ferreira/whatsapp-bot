@@ -1,6 +1,6 @@
 var Test = /** @class */ (function () {
     function Test() {
-        this.valor = "test";
+        this.value = "App";
         console.log('testando');
     }
     return Test;
