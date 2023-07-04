@@ -27,8 +27,7 @@ O projeto foi baseado na aula de <a href="https://www.youtube.com/watch?v=uCoSzw
 
 Antes de executar o projeto, é necessário configurar algumas variáveis de ambiente:
 
-1. Crie um arquivo `.env` na raiz do projeto.
-2. crie o arquivo nodemon.json na raiz do projeto.
+1. crie o arquivo nodemon.json na raiz do projeto.
 
 ## Executando o Projeto
 
