@@ -1,4 +1,4 @@
-# Chat de Texto para WhatsApp 📱
+# WhatsApp Marketing Message Sender 📱
 
 Este é o começo de um projeto de chat de texto para o WhatsApp, onde o foco é o aprendizado em TypeScript e na instalação de dependências e ambiente de desenvolvimento.
 
